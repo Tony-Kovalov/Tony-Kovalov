@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tony.
-- 👨‍💻 I love programming, solving logic problems, and generally doing something cool and useful. 
-- 👨‍🎓 I like to learn new things. I also enjoy teaching people math and programming. 
-- 🙏 🙏 I am a Christian (I believe in God) and I try to write programs for which I will not be ashamed before God.
-- 🌳 🌱 I'm currently learning Android, Java, Kotlin, and a little bit Swift.
+- 👨‍💻 I love programming, solving logic problems, and generally doing something cool and useful.
+- 👨‍🎓 I am always inspired by learning new things, tutoring Math and programming.
+- 🙏 🙏 I am Christian and I try to write projects with the quality and direction I am not ashamed before God.
+- 🌳 🌱 I’m currently learning Android, Java, Kotlin, and Swift.
 
 <!---
 Tony-Kovalov/Tony-Kovalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
